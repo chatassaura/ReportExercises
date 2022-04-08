@@ -9,9 +9,9 @@ API_KEY_NUTRITION = #SUA Chave API
 API_ID_NUTRITION = # Seu API ID
 TODAY = datetime.now().strftime("%d/%m/%Y")
 HOUR = datetime.now().strftime("%X")
-SHEETY_ENDPOINT = 'https://api.sheety.co/613d9b544f653b8e31d7cc8904f068e8/myWorkouts/workouts'
-SHEETY_USER = "Day38"
-SHEETY_PASSWORD = "0123456789"
+SHEETY_ENDPOINT = #YOUR PROJECT SHEET LINK 
+SHEETY_USER = #YOUR USER
+SHEETY_PASSWORD = #YOUR PASSWORD 
 
 # ------------------------------------------------------------------------------------------------
 
